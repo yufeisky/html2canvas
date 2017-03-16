@@ -1,4 +1,4 @@
-html2canvas
+html2canvas HTML转图片JS
 ===========
 
 [Homepage](http://html2canvas.hertzen.com) | [Downloads](https://github.com/niklasvh/html2canvas/releases) | [Questions](http://stackoverflow.com/questions/tagged/html2canvas?sort=newest) | [Donate](https://www.gittip.com/niklasvh/)
